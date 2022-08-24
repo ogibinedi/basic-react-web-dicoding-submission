@@ -5,3 +5,7 @@ Aplikasi ini merupakan submission yang saya buat untuk menyelesaikan program pem
 Syarat lulus mendapatkan sertifikasi program pembelajaran react dasar
 
 teman-teman boleh meng clone aplikasi ini untuk dijadikan bahan referensi belajar
+
+dibawah ini link website yang sudah live:
+
+[Personal Notes](https://ogipersonalnotes.netlify.app/)
